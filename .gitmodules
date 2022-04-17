@@ -1,0 +1,4 @@
+[submodule "ingadhoc/aeroo_reports"]
+	path = ingadhoc/aeroo_reports
+	url = git@github.com:ingadhoc/aeroo_reports.git
+	branch = 15.0
